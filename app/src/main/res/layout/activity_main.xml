@@ -59,7 +59,8 @@
             android:background="#69DD72"
             android:paddingLeft="15dp"
             android:paddingTop="10dp"
-            android:text="Log body temperture"
+            android:onClick="goToLog"
+            android:text="Log body temperature"
             android:textAppearance="@style/TextAppearance.AppCompat.Display1" />
 
         <TextView
@@ -72,6 +73,7 @@
             android:background="#075A05"
             android:paddingLeft="15dp"
             android:paddingTop="10dp"
+            android:onClick="goToNormal"
             android:text="Check Normal Range"
             android:textAppearance="@style/TextAppearance.AppCompat.Display1"
             android:textColor="#F8F6F6" />
@@ -86,6 +88,7 @@
             android:background="#F3D613"
             android:paddingLeft="15dp"
             android:paddingTop="10dp"
+            android:onClick="openMechanismLink"
             android:text="Mechanism of Fever"
             android:textAppearance="@style/TextAppearance.AppCompat.Display1"
             android:textColor="#FA0C0C" />
@@ -100,6 +103,7 @@
             android:background="#0FC5E8"
             android:paddingLeft="15dp"
             android:paddingTop="10dp"
+            android:onClick="openHandleFeverLink"
             android:text="Handle Fever"
             android:textAppearance="@style/TextAppearance.AppCompat.Display1"
             android:textColor="#FD8D05" />
