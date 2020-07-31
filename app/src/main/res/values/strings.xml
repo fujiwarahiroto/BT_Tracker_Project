@@ -6,7 +6,7 @@
     <string name="handling_fever">Handling Fever</string>
     <string name="set_reminder">Set Reminder</string>
     <string name="please_log_your_temperature_today">Please log your temperature today</string>
-    <string name="save">Save</string>
+    <string name="save_button">Save</string>
     <string name="why_do_we_have_fever">Why do we have fever?</string>
     <string name="useful_links_about_fever">Useful Links about Fever</string>
     <string name="normal_body_temp">Normal human body temperature is between 36.0-37.5.</string>
@@ -45,4 +45,6 @@
     markers for circadian rhythms. The body temperature also changes when a person
     is hungry, sleepy, sick, or cold.
     </string>
+    <string name="normal_body_temperature">Normal Body Temperature</string>
+    <string name="please_input_your_body_temperature">Please input your body temperature</string>
 </resources>
